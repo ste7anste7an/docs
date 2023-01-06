@@ -23,8 +23,12 @@ OpemMV Uart Convertor board
 
    OpenMV convertor board/Assembling-the-converter-board.rst
 
-Distance Sensor Brakout board
+Distance Sensor Breakout board
 -----------------------------
+
+.. toctree::
+   :maxdepth: 1
+   Distance Sensor Breakout board/Assembling-the-distance-sensor-breakout.rst
 
 LMS-ESP8266
 -----------
