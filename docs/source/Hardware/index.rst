@@ -30,6 +30,8 @@ OpemMV Uart Convertor board
 Distance Sensor Breakout board
 -----------------------------
 
+|distance sensor breakout|
+
 .. toctree::
    :maxdepth: 1
    Distance Sensor Breakout board/Assembling-the-distance-sensor-breakout.rst
@@ -49,7 +51,7 @@ LMS-ESP8266
 
 
 
-.. |Esp32 wifi board| image:: LMS-ESWP32/images/esp32-wifi.jpg
-.. |OpenMV breakout| image:: OpenMV convertor board\images\
-.. |distance sensor breakout| image:: Distance Sensor Breakout Board/images/Distance-breakout.jpg
-.. |Esp8266 wifi board| image:: LMS-ESP8266/images/Breakout-BUNDLE.jpg
+.. |Esp32 wifi board| image:: "LMS-ESP32/images/esp32-wifi.jpg"
+.. |OpenMV breakout| image:: "OpenMV convertor board/images/Breakout.jpg"
+.. |distance sensor breakout| image:: "Distance Sensor Breakout Board/images/Distance-breakout.jpg"
+.. |Esp8266 wifi board| image:: "LMS-ESP8266/images/Breakout-BUNDLE.jpg"
