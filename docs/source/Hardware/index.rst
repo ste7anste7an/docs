@@ -51,7 +51,11 @@ LMS-ESP8266
 
 
 
-.. |Esp32 wifi board| image:: "LMS-ESP32/images/esp32-wifi.jpg"
-.. |OpenMV breakout| image:: "OpenMV convertor board/images/Breakout.jpg"
-.. |distance sensor breakout| image:: "Distance Sensor Breakout Board/images/Distance-breakout.jpg"
-.. |Esp8266 wifi board| image:: "LMS-ESP8266/images/Breakout-BUNDLE.jpg"
+.. |Esp32 wifi board| image:: LMS-ESP32/images/esp32-wifi.jpg
+   :width: 400
+.. |OpenMV breakout| image:: OpenMV\ convertor\ board/images/Breakout.jpg
+   :width: 400
+.. |distance sensor breakout| image:: Distance\ Sensor\ Breakout\ Board/images/Distance-breakout.jpg
+   :width: 400
+.. |Esp8266 wifi board| image:: LMS-ESP8266/images/Breakout-BUNDLE.jpg
+   :width: 400

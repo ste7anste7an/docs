@@ -9,16 +9,17 @@ SerialTalk
 .. toctree::
    :maxdepth: 1
 
-   serialtalk.rst
+   SerialTalk/index.rst
    
 UartRemote
 ----------
 
 This is a library that now is incorporated in the SerialTalk library.
+
 .. toctree::
    :maxdepth: 1
 
-   uartremote.rst
+   UartRemote/index.rst
 
 
 
@@ -28,5 +29,5 @@ MPY Robot Tools
 .. toctree::
    :maxdepth: 1
 
-   mpy-robot-tools.rst
+   mpy-robot-tools/docs/index.rst
 
